@@ -1,6 +1,6 @@
 # About
 This repo contains the source I use to automatically generate
-my curriculum vitae as a PDF from YAML and BibTeX input.
+my curriculum vitae as a [PDF](/build/cv.pdf) from YAML and BibTeX input.
 
 + [generate.py](generate.py) reads from [cv.yaml](cv.yaml) and
 [publications](publications) and outputs LaTeX and Markdown
@@ -20,7 +20,6 @@ So the current changes are only reflected in the .tex files (and consequent PDF 
 More work is needed if you intend to use this to generate a website as well. 
 
 I use a modified `classic` style, which looks something like this:
-
 ![Alt text](/build/preview.png?raw=true)
 
 # Building and running
@@ -57,9 +56,8 @@ review the `BLOG_DIR` variable and the `jekyll` and `push` targets.
    normal LaTeX. See `generate.py` for details.
 
 # Licensing
-This work is distributed under the MIT license (`LICENSE-bamos.mit`)
-with portions copyright Ellis Michael from
+This work is distributed under the MIT license (`LICENSE.mit`)
+with significant portions copyright [Brandon Amos](https://github.com/bamos/cv) and 
+Ellis Michael from
 [emichael/resume](https://github.com/emichael/resume).
-Ellis' portions are also distributed under the MIT license
-(`LICENSE-emichael.mit`) and include
-a re-write of `generate.py` and template restructuring.
+Amos' and Ellis' portions are also distributed under the MIT license and this version includes template restructuring.
