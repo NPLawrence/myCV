@@ -1,8 +1,7 @@
 name:
   first: \huge Nathan
   last: Lawrence
-phone: ---
-email: lawrence@math.ubc.ca
+email: input@nplawrence.com
 pdf: /data/cv.pdf
 src: https://github.com/NPLawrence/CV
 url: "https://nplawrence.com"
@@ -140,7 +139,7 @@ positions:
   - place: Department of Mathematics
     location: UBC
     title: Postdoctoral Research Fellow
-    dates: 2023
+    dates: July 2023
   # details: "Mathematics department"
 
 
@@ -364,9 +363,13 @@ honors:
   #   descr: Member; Bachelor's; National honor society
 
 talks:
-  - type: "Campus"
+  - type: "Invited"
     details:
-    - title: Deep reinforcement learning agents for industrial control
+    - title: "A reinforcement learning perspective on industrial model predictive control"
+      url:
+      location: Upper Bound, Edmonton
+      year: 2024
+    - title: "Deep reinforcement learning agents for industrial control"
       url:
       location: Math department colloquium, UBC
       year: 2023
@@ -382,6 +385,10 @@ talks:
       year: 2022
   - type: "Conference"
     details:
+    - title: "Stability-by-design for industrial reinforcement learning"
+      url: https://trustml.ubc.ca/events/trustml-workshop-ubc-february-2024
+      location: "TrustML Workshop, UBC"
+      year: 2024
     - title: "A modular framework for stabilizing deep reinforcement learning control"
       url:
       location: SIAM PNW biennial meeting, Western Washington University, Bellingham, WA
@@ -421,14 +428,11 @@ talks:
 
 references:
   - name: Philip Loewen
-    phone: ---
     email: loew@math.ubc.ca
     address: Professor, UBC
   - name: Bhushan Gopaluni
-    phone: ---
     email: bhushan.gopaluni@ubc.ca
     address: Professor, UBC
   - name: Michael Forbes
-    phone: ---
     email: Michael.Forbes@Honeywell.com
     address: Engineering Fellow, Honeywell Process Solutions  
