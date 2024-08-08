@@ -1,6 +1,7 @@
 name:
   first: \huge Nathan
   last: Lawrence
+phone: ---
 email: input@nplawrence.com
 pdf: /data/cv.pdf
 src: https://github.com/NPLawrence/CV
@@ -136,10 +137,14 @@ research:
 
 
 positions:
-  - place: Department of Mathematics
+  - place: Chemical \& Biomolecular Engineering
+    location: UC Berkeley
+    title: Postdoctoral Scholar
+    dates: 2024
+  - place: Mathematics
     location: UBC
     title: Postdoctoral Research Fellow
-    dates: July 2023
+    dates: 2023-2024
   # details: "Mathematics department"
 
 
@@ -428,11 +433,14 @@ talks:
 
 references:
   - name: Philip Loewen
+    phone: ---
     email: loew@math.ubc.ca
     address: Professor, UBC
   - name: Bhushan Gopaluni
+    phone: ---
     email: bhushan.gopaluni@ubc.ca
     address: Professor, UBC
   - name: Michael Forbes
+    phone: ---
     email: Michael.Forbes@Honeywell.com
     address: Engineering Fellow, Honeywell Process Solutions  
