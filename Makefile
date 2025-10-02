@@ -13,7 +13,6 @@ TEMPLATES=$(shell find templates -type f)
 BUILD_DIR=build
 TEX=$(BUILD_DIR)/cv.tex
 PDF=$(BUILD_DIR)/cv.pdf
-MD=$(BUILD_DIR)/cv.md
 
 ifneq ("$(wildcard cv.hidden.yaml)","")
 	YAML_FILES = cv.yaml cv.hidden.yaml

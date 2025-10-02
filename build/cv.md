@@ -43,6 +43,20 @@ Representative publications that I am a primary author on are
 [<a href="https://scholar.google.com/citations?user=Fe9p7QoAAAAJ">Google Scholar</a>]
 [<a href="https://github.com/bamos/cv/blob/master/publications/all.bib">BibTeX</a>]
 
+<h2>2024</h2>
+<table class="table table-hover">
+
+<tr id="tr-wang2024guiding" >
+<td>
+    <em>Guiding Reinforcement Learning with Incomplete System Dynamics</em><br>
+    <a href='https://josef-w.github.io' target='_blank'>Shuyuan&nbsp;Wang</a>, <a href='https://scholar.google.com/citations?user=jaofXZIAAAAJ' target='_blank'>Jingliang&nbsp;Duan</a>, <strong>Nathan&nbsp;P&nbsp;Lawrence</strong>, Philip&nbsp;D&nbsp;Loewen, Michael&nbsp;G&nbsp;Forbes, <a href='https://dais.chbe.ubc.ca' target='_blank'>R&nbsp;Bhushan&nbsp;Gopaluni</a>, and <a href='https://scholar.google.com/citations?user=GOzNSbEAAAAJ' target='_blank'>Lixian&nbsp;Zhang</a><br>
+    IROS 2024  <br>
+    [1] <br>
+    
+</td>
+</tr>
+
+</table>
 <h2>2023</h2>
 <table class="table table-hover">
 
@@ -51,7 +65,7 @@ Representative publications that I am a primary author on are
     <em>Automated deep reinforcement learning for real-time scheduling strategy of multi-energy system integrated with post-carbon and direct-air carbon captured system</em><br>
     <a href='https://www.researchgate.net/profile/Alabi_Michael4' target='_blank'>Tobi&nbsp;Michael&nbsp;Alabi</a>, <strong>Nathan&nbsp;P.&nbsp;Lawrence</strong>, <a href='https://scholar.google.com/citations?user=_sMx2vwAAAAJ' target='_blank'>Lin&nbsp;Lu</a>, <a href='https://scholar.google.com/citations?user=u0HM84UAAAAJ' target='_blank'>Zaiyue&nbsp;Yang</a>, and <a href='https://dais.chbe.ubc.ca' target='_blank'>R.&nbsp;Bhushan&nbsp;Gopaluni</a><br>
     Applied Energy 2023  <br>
-    [1] <br>
+    [2] <br>
     
 </td>
 </tr>
@@ -62,7 +76,7 @@ Representative publications that I am a primary author on are
     <em>A modular framework for stabilizing deep reinforcement learning control</em><br>
     <strong>Nathan&nbsp;P.&nbsp;Lawrence</strong>, Philip&nbsp;D.&nbsp;Loewen, <a href='https://josef-w.github.io' target='_blank'>Shuyuan&nbsp;Wang</a>, Michael&nbsp;G.&nbsp;Forbes, and <a href='https://dais.chbe.ubc.ca' target='_blank'>R.&nbsp;Bhushan&nbsp;Gopaluni</a><br>
     IFAC World Congress 2023 (To appear) <br>
-    [2] <br>
+    [3] <br>
     
 </td>
 </tr>
@@ -73,7 +87,7 @@ Representative publications that I am a primary author on are
     <em>Reinforcement Learning with Partial Parametric Model Knowledge</em><br>
     <a href='https://josef-w.github.io' target='_blank'>Shuyuan&nbsp;Wang</a>, Philip&nbsp;D.&nbsp;Loewen, <strong>Nathan&nbsp;P.&nbsp;Lawrence</strong>, Michael&nbsp;G.&nbsp;Forbes, and <a href='https://dais.chbe.ubc.ca' target='_blank'>R.&nbsp;Bhushan&nbsp;Gopaluni</a><br>
     IFAC World Congress 2023 (To appear) <br>
-    [3] <br>
+    [4] <br>
     
 </td>
 </tr>
@@ -87,7 +101,7 @@ Representative publications that I am a primary author on are
     <em>Deep Reinforcement Learning with Shallow Controllers: {An} Experimental Application to {PID} Tuning</em><br>
     <strong>Nathan&nbsp;P.&nbsp;Lawrence</strong>, Michael&nbsp;G.&nbsp;Forbes, Philip&nbsp;D.&nbsp;Loewen, Daniel&nbsp;G.&nbsp;McClement, Johan&nbsp;U.&nbsp;Backstr&ouml;m, and <a href='https://dais.chbe.ubc.ca' target='_blank'>R.&nbsp;Bhushan&nbsp;Gopaluni</a><br>
     Control Engineering Practice 2022  <br>
-    [4] <br>
+    [5] <br>
     
 </td>
 </tr>
@@ -98,7 +112,7 @@ Representative publications that I am a primary author on are
     <em>Meta-reinforcement learning for the tuning of PI controllers: An offline approach</em><br>
     Daniel&nbsp;G.&nbsp;McClement, <strong>Nathan&nbsp;P.&nbsp;Lawrence</strong>, Johan&nbsp;U.&nbsp;Backstr&ouml;m, Philip&nbsp;D.&nbsp;Loewen, Michael&nbsp;G.&nbsp;Forbes, and <a href='https://dais.chbe.ubc.ca' target='_blank'>R.&nbsp;Bhushan&nbsp;Gopaluni</a><br>
     Journal of Process Control 2022  <br>
-    [5] <br>
+    [6] <br>
     
 </td>
 </tr>
@@ -109,7 +123,7 @@ Representative publications that I am a primary author on are
     <em>Meta-Reinforcement Learning for Adaptive Control of Second Order Systems</em><br>
     Daniel&nbsp;G.&nbsp;McClement, <strong>Nathan&nbsp;P.&nbsp;Lawrence</strong>, Michael&nbsp;G.&nbsp;Forbes, Philip&nbsp;D.&nbsp;Loewen, Johan&nbsp;U.&nbsp;Backstr&ouml;m, and <a href='https://dais.chbe.ubc.ca' target='_blank'>R.&nbsp;Bhushan&nbsp;Gopaluni</a><br>
     AdCONIP 2022  <br>
-    [6] <br>
+    [7] <br>
     
 </td>
 </tr>
@@ -123,7 +137,7 @@ Representative publications that I am a primary author on are
     <em>A {Meta-Reinforcement Learning Approach} to {Process Control}</em><br>
     Daniel&nbsp;G.&nbsp;McClement, <strong>Nathan&nbsp;P.&nbsp;Lawrence</strong>, Philip&nbsp;D.&nbsp;Loewen, Michael&nbsp;G.&nbsp;Forbes, Johan&nbsp;U.&nbsp;Backstr&ouml;m, and <a href='https://dais.chbe.ubc.ca' target='_blank'>R.&nbsp;Bhushan&nbsp;Gopaluni</a><br>
     ADCHEM 2021 (Keynote Paper) <br>
-    [7] <br>
+    [8] <br>
     
 </td>
 </tr>
@@ -137,7 +151,7 @@ Representative publications that I am a primary author on are
     <em><a href='https://papers.nips.cc/paper/2020/hash/daecf755df5b1d637033bb29b319c39a-Abstract.html' target='_blank'>Almost {Surely Stable Deep Dynamics}</a> </em><br>
     <strong>Nathan&nbsp;P.&nbsp;Lawrence</strong>, Philip&nbsp;D.&nbsp;Loewen, Michael&nbsp;G.&nbsp;Forbes, Johan&nbsp;U.&nbsp;Backstr&ouml;m, and <a href='https://dais.chbe.ubc.ca' target='_blank'>R.&nbsp;Bhushan&nbsp;Gopaluni</a><br>
     NeurIPS 2020 (NeurIPS Spotlight; 4% acceptance) <br>
-    [8] <br>
+    [9] <br>
     
 </td>
 </tr>
@@ -148,7 +162,7 @@ Representative publications that I am a primary author on are
     <em>Optimal {PID} and {Antiwindup Control Design} as a {Reinforcement Learning Problem}</em><br>
     <strong>Nathan&nbsp;P.&nbsp;Lawrence</strong>, Gregory&nbsp;E.&nbsp;Stewart, Philip&nbsp;D.&nbsp;Loewen, Michael&nbsp;G.&nbsp;Forbes, Johan&nbsp;U.&nbsp;Backstr&ouml;m, and <a href='https://dais.chbe.ubc.ca' target='_blank'>R.&nbsp;Bhushan&nbsp;Gopaluni</a><br>
     IFAC World Congress 2020  <br>
-    [9] <br>
+    [10] <br>
     
 </td>
 </tr>
@@ -159,7 +173,7 @@ Representative publications that I am a primary author on are
     <em>Modern {Machine Learning Tools} for {Monitoring} and {Control} of {Industrial Processes}: {A Survey}</em><br>
     <a href='https://dais.chbe.ubc.ca' target='_blank'>R.&nbsp;Bhushan&nbsp;Gopaluni</a>, <a href='https://scholar.google.com/citations?user=w6mq7zMAAAAJ' target='_blank'>Aditya&nbsp;Tulsyan</a>, <a href='https://scholar.google.com/citations?user=VXbA-dAAAAAJ' target='_blank'>Benoit&nbsp;Chachuat</a>, <a href='https://sites.ualberta.ca/~bhuang/' target='_blank'>Biao&nbsp;Huang</a>, <a href='https://scholar.google.co.kr/citations?user=WG-zsisAAAAJn' target='_blank'>Jong&nbsp;Min&nbsp;Lee</a>, <a href='https://www.researchgate.net/profile/Faraz-Amjad-2' target='_blank'>Faraz&nbsp;Amjad</a>, <a href='https://scholar.google.com/citations?user=NlUsvm0AAAAJ' target='_blank'>Seshu&nbsp;Kumar&nbsp;Damarla</a>, <a href='https://scholar.google.co.kr/citations?user=z_s3tAYAAAAJ' target='_blank'>Jong&nbsp;Woo&nbsp;Kim</a>, and <strong>Nathan&nbsp;P.&nbsp;Lawrence</strong><br>
     IFAC World Congress 2020  <br>
-    [10] <br>
+    [11] <br>
     
 </td>
 </tr>
@@ -170,7 +184,7 @@ Representative publications that I am a primary author on are
     <em>Reinforcement {Learning} Based {Design} of {Linear Fixed Structure Controllers}</em><br>
     <strong>Nathan&nbsp;P.&nbsp;Lawrence</strong>, Gregory&nbsp;E.&nbsp;Stewart, Philip&nbsp;D.&nbsp;Loewen, Michael&nbsp;G.&nbsp;Forbes, Johan&nbsp;U.&nbsp;Backstr&ouml;m, and <a href='https://dais.chbe.ubc.ca' target='_blank'>R.&nbsp;Bhushan&nbsp;Gopaluni</a><br>
     IFAC World Congress 2020  <br>
-    [11] <br>
+    [12] <br>
     
 </td>
 </tr>
@@ -184,7 +198,7 @@ Representative publications that I am a primary author on are
     <em>Toward Self-driving Processes: {A} Deep Reinforcement Learning Approach to Control</em><br>
     <a href='https://www.stevenspielberg.me' target='_blank'>Steven&nbsp;Spielberg</a>, <a href='https://scholar.google.com/citations?user=w6mq7zMAAAAJ' target='_blank'>Aditya&nbsp;Tulsyan</a>, <strong>Nathan&nbsp;P.&nbsp;Lawrence</strong>, Philip&nbsp;D.&nbsp;Loewen, and <a href='https://dais.chbe.ubc.ca' target='_blank'>R.&nbsp;Bhushan&nbsp;Gopaluni</a><br>
     AIChE J. 2019  <br>
-    [12] <br>
+    [13] <br>
     
 </td>
 </tr>
@@ -221,13 +235,6 @@ Representative publications that I am a primary author on are
     <br><p style="color:grey;font-size:1.2rem">Doctoral; UBC scholarship</p>
   </td>
   <td class='col-md-2' style='text-align:right;'>2020-2023</td>
-</tr>
-<tr>
-  <td>
-    Eugene Enneking Doctoral Fellowship
-    <br><p style="color:grey;font-size:1.2rem">Declined; PSU</p>
-  </td>
-  <td class='col-md-2' style='text-align:right;'>2018</td>
 </tr>
 <tr>
   <td>
@@ -352,7 +359,7 @@ Python, Julia
 <tr>
   <td class='col-md-2'>Frameworks</td>
   <td>
-PyTorch, TensorFlow, Stable-Baselines3, Spinning Up, Pandas, SciPy, NumPy, Flux.jl, ReinforcementLearning.jl
+PyTorch, TensorFlow, Stable-Baselines3, Spinning Up, Pandas, SciPy, Flux.jl, ReinforcementLearning.jl
   </td>
 </tr>
 <tr>
@@ -366,6 +373,12 @@ Matlab, git, LaTex
 
 ## <i class="fa fa-chevron-right"></i> References
 <table class="table table-hover">
+<tr>
+  <td class='col-md-2'></td>
+  <td>
+
+  </td>
+</tr>
 <tr>
   <td class='col-md-2'></td>
   <td>

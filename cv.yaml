@@ -3,6 +3,7 @@ name:
   last: Lawrence
 phone: ---
 email: input@nplawrence.com
+# email: nplawrence@berkeley.edu
 pdf: /data/cv.pdf
 src: https://github.com/NPLawrence/CV
 url: "https://nplawrence.com"
@@ -140,7 +141,7 @@ positions:
   - place: Chemical \& Biomolecular Engineering
     location: UC Berkeley
     title: Postdoctoral Scholar
-    dates: 2024
+    dates: 2024-present
   - place: Mathematics
     location: UBC
     title: Postdoctoral Research Fellow
@@ -245,9 +246,6 @@ all_publications:
     - heading: Conference Proceedings
       prefix: C
       file: conference.bib
-    - heading: Under Review or In-Progress
-      prefix: R
-      file: in_progress.bib
     - heading: Patents
       prefix: P
       file: patent.bib
@@ -255,6 +253,25 @@ all_publications:
       prefix: T
       file: thesis.bib
 
+# selected_publications:
+#   name: "Lawrence"
+#   file: all.bib
+#   sort_bib: True
+#   include_image: False
+#   group_by_year: True
+#   categories:
+#     - heading: Under Review or In-Progress
+#       prefix: R
+#       file: in_progress.bib
+#     - heading: Selected Publications
+#       prefix: J
+#       file: selected.bib
+#     - heading: Patents
+#       prefix: P
+#       file: patent.bib
+#     - heading: Theses
+#       prefix: T
+#       file: thesis.bib
 
     # - heading: Workshop, Symposium, and Short Papers
     #   prefix: W
@@ -319,7 +336,7 @@ skills:
   - title: Programming
     details: Python, Julia
   - title: Frameworks
-    details: PyTorch, TensorFlow, Stable-Baselines3, Spinning Up, Pandas, SciPy, NumPy, Flux.jl, ReinforcementLearning.jl
+    details: PyTorch, TensorFlow, Stable-Baselines3, Spinning Up, Pandas, SciPy, Flux.jl, ReinforcementLearning.jl
   - title: Tools
     details: Matlab, git, LaTex
 
@@ -340,10 +357,10 @@ honors:
     year: 2020--2023
     descr: Doctoral; UBC scholarship
     url: https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf
-  - title: Eugene Enneking Doctoral Fellowship
-    year: 2018
-    descr: Declined; PSU
-    url: https://www.pdx.edu/math/graduate-scholarships
+  # - title: Eugene Enneking Doctoral Fellowship
+  #   year: 2018
+  #   descr: Declined; PSU
+  #   url: https://www.pdx.edu/math/graduate-scholarships
   # - title: Oregon Sports Lottery Graduate Scholarship
   #   year: 2018
   #   descr: Declined; PSU
@@ -384,12 +401,19 @@ talks:
       year: 2021
   - type: "Organizer"
     details:
+    - title: "Learning Interpretable Control Policies: Unifying Reinforcement Learning, Differentiable Programming and Bayesian Optimization"
+      location: "Tutorial session, ACC, Denver, CO"
+      year: 2025
     - title: "Making reinforcement learning a practical technology for industrial control"
       url: https://github.com/daisubc/adconip2022
       location: Workshop organizer, AdCONIP, Vancouver, BC
       year: 2022
   - type: "Conference"
     details:
+    - title: "Local-global interface of reinforcement learning and model predictive control"
+      url: https://sites.google.com/ucdavis.edu/7th-norcal-control-workshop
+      location: "NorCal Control Workshop, UC Davis"
+      year: 2025
     - title: "Stability-by-design for industrial reinforcement learning"
       url: https://trustml.ubc.ca/events/trustml-workshop-ubc-february-2024
       location: "TrustML Workshop, UBC"
@@ -432,6 +456,10 @@ talks:
       year: 2020
 
 references:
+  - name: Ali Mesbah
+    phone: ---
+    email: mesbah@berkeley.edu
+    address: Associate Professor, UC Berkeley
   - name: Philip Loewen
     phone: ---
     email: loew@math.ubc.ca
